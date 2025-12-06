@@ -33,6 +33,5 @@ This project contains the fleet equipment inventory data and analysis performed 
 - Excel pivot table reporting
 - Business-focused insight generation
 
-## ⚠️ NOTE
-This repository contains sample/anonymized data for demonstration. Sensitive information has been removed.
+
 
